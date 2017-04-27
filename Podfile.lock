@@ -1,0 +1,28 @@
+PODS:
+  - HanekeSwift (0.10.1)
+  - SKPhotoBrowser (4.0.1)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - HanekeSwift (from `https://github.com/Haneke/HanekeSwift.git`, branch `feature/swift-3`)
+  - SKPhotoBrowser
+  - SVProgressHUD
+
+EXTERNAL SOURCES:
+  HanekeSwift:
+    :branch: feature/swift-3
+    :git: https://github.com/Haneke/HanekeSwift.git
+
+CHECKOUT OPTIONS:
+  HanekeSwift:
+    :commit: 2f6d87f1f725d204d85cb34492e8c399cd5a200f
+    :git: https://github.com/Haneke/HanekeSwift.git
+
+SPEC CHECKSUMS:
+  HanekeSwift: 4113367892828e7700d24a384027de6ebc79aad1
+  SKPhotoBrowser: 3a7c6fc02aa1620ab17253a47a49fafda46536e8
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: a1edcf99c865bfd833de4a601a1208e0af8a3cc8
+
+COCOAPODS: 1.2.1
